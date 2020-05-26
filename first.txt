@@ -2,4 +2,5 @@ Gitを学んでいきます
 基本的なワークフローを学んでいきます
 ・Git add
 ・Git commit
-・rm
+・Git rm
+・Git status
